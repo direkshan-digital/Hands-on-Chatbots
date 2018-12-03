@@ -1,5 +1,4 @@
-//https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start/
-//https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5
+// MIT LICENSE
 // THIS CODE IS FOR EDUCATIONAL PURPOSES
 // CONSULT FACEBOOK'S PRIVACY POLICY BEFORE USING IT ONLINE
 
